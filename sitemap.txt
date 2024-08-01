@@ -1,5 +1,5 @@
-https://standap-joke.github.io/standap-joke/
-https://standap-joke.github.io/standap-joke/menu.html
-https://standap-joke.github.io/standap-joke/contact.html
-https://standap-joke.github.io/standap-joke/reviews.html
-https://standap-joke.github.io/standap-joke/schedule.html
+https://standap-joke.github.io/
+https://standap-joke.github.io/menu.html
+https://standap-joke.github.io/contact.html
+https://standap-joke.github.io/reviews.html
+https://standap-joke.github.io/schedule.html
