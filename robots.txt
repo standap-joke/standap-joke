@@ -1,0 +1,8 @@
+# robots.txt for https://standap-joke.github.io/
+
+User-Agent: *
+
+Disallow: /img/*
+
+Host: https://standap-joke.github.io/
+Sitemap: https://standap-joke.github.io/sitemap.txt
